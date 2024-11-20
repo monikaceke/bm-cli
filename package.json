@@ -19,7 +19,7 @@
         "cli",
         "bm"
     ],
-    "author": "Dejan Pudja, Marko Guzvic",
+    "author": "",
     "license": "ISC",
     "dependencies": {
         "@html-next/svg-icon-optimizer": "^0.0.1",
